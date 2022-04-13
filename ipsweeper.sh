@@ -1,7 +1,6 @@
 #!/bin/bash
 # IP sweeper written in Bash. Taken from TheCyberMentor's Practical Ethical Hacking course:
 # https://academy.tcm-sec.com/
-# Date: 2022-04-14
 
 if [ "$1" == "" ]
 then
