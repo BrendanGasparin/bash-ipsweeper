@@ -1,5 +1,5 @@
 # bash-pingsweeper
-An IP address range ping sweeper written in Bash.
+An IP address range ping sweeper written in Bash. Borrowed from [TCM Academy](https://academy.tcm-sec.com/).
 
 ## Usage
 ./pingsweeper.sh \<first three octets of an IP range\>  
